@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress stuff
+.cypress/
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+
+# Environment files
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db

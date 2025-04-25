@@ -1,0 +1,29 @@
+{
+  "userData": {
+    "name": "asdfasdfasdf",
+    "userName": "asdfasdfasdf",
+    "email": "asdfasdfasdf@asdf.com",
+    "mobile_number": "9876543212",
+    "departmentId": "7bda4e45-09f9-4a62-8080-8dc986ccb1f9",
+    "grievance_manager": true,
+    "vendor": true
+  },
+  "existingUserData": {
+    "name": "Bijwol Shakya",
+    "userName": "bijwol_123",
+    "email": "bijwol.shakya@amniltech.com",
+    "mobile_number": "9860548755",
+    "departmentId": "7bda4e45-09f9-4a62-8080-8dc986ccb1f9",
+    "grievance_manager": true,
+    "vendor": true
+  },
+  "newUserData": {
+    "name": "John doe",
+    "userName": "johndoe_123",
+    "email": "johndoe@amniltech.com",
+    "mobile_number": "9856321470",
+    "departmentId": "7bda4e45-09f9-4a62-8080-8dc986ccb1f9",
+    "grievance_manager": true,
+    "vendor": true
+  }
+}

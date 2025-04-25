@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "email": "bijwol.shakya@amniltech.com",
+    "password": "#BuggyZone1234"
+  },
+  "invalidUser": {
+    "email": "aassddff.asdf",
+    "password": "amnil@123"
+  }
+}
